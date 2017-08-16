@@ -49,3 +49,5 @@
 * 打牌效果图 ![游戏大厅页面](http://oupthc6v2.bkt.clouddn.com/desk.jpg)
 
 ---
+## 联系方式:
+- ![二维码](http://oupthc6v2.bkt.clouddn.com/qr.jpg)
