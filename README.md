@@ -47,6 +47,10 @@
 * 游戏登陆界面 ![游戏登陆页面](http://oupthc6v2.bkt.clouddn.com/login.jpg)
 * 游戏大厅页面 ![游戏大厅页面](http://oupthc6v2.bkt.clouddn.com/room.jpg)
 * 打牌效果图 ![游戏大厅页面](http://oupthc6v2.bkt.clouddn.com/desk.jpg)
+ 
+5.游戏体验链接
+- IOS：http://fir.im/qshnmj
+- Android：http://fir.im/qshnmj1
 
 ---
 ## 联系方式:
