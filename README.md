@@ -54,4 +54,4 @@
 
 ---
 ## 联系方式:
-- ![二维码](http://oupthc6v2.bkt.clouddn.com/qr.jpg)
+- ![二维码](http://oupthc6v2.bkt.clouddn.com/qr.jpg?imageView2/2/w/200/h/200/format/jpg/q/75|imageslim)
