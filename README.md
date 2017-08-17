@@ -18,8 +18,9 @@
 * 分销系统
 
 ----
-##在容器上部署
 ![arch](http://oupthc6v2.bkt.clouddn.com/archorigin.jpg)
+
+##在容器上部署
 
 1.获取源代码
 * 客户端 [https://github.com/shuimuliang/qnmahjongclient](https://github.com/shuimuliang/qnmahjongclient)
