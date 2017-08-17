@@ -49,7 +49,7 @@
 * 打牌效果图 ![游戏大厅页面](http://oupthc6v2.bkt.clouddn.com/desk.jpg)
  
 5.游戏体验链接
-- IOS：http://fir.im/qshnmj
+- iOS：http://fir.im/qshnmj
 - Android：http://fir.im/qshnmj1
 
 ---
