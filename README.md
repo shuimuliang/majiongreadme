@@ -54,6 +54,6 @@
 - Android：http://fir.im/qshnmj1
 
 ---
-## 联系方式:
+## 地方流量推广、联系方式:
 - ![二维码](http://oupthc6v2.bkt.clouddn.com/qr.jpg?imageView2/2/w/200/h/200/format/jpg/q/75|imageslim)
 - QQ技术支持群: 99124448
